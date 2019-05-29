@@ -14,12 +14,19 @@ namespace dictionary_of_words
             Dictionary<string, string> wordsAndDefinitions = new Dictionary<string, string>();
 
             // Add several more words and their definitions
-            wordsAndDefinitions.Add("Awesome", "The feeling of students when they are learning C#");
+            wordsAndDefinitions.Add("Awesome", "The feeling of students when they are learning C#.");
+            wordsAndDefinitions.Add("Success", "The accomplishment of an aim or purpose.");
+            wordsAndDefinitions.Add("Happiness", "A feeling of joy.");
+            wordsAndDefinitions.Add("Sadness", "Feeling down.");
+            wordsAndDefinitions.Add("Failure", "The opposite of Success.");
+
 
             /*
-                Use square bracket lookup to get the definition two
+                Use square bracket lookup to get the definitions to
                 words and output them to the console
             */
+            Console.WriteLine(wordsAndDefinitions["Success"]);
+            Console.WriteLine(wordsAndDefinitions["Happiness"]);
 
             /*
                 Loop over dictionary to get the following output:
@@ -29,6 +36,8 @@ namespace dictionary_of_words
             */
             foreach (KeyValuePair<string, string> word in wordsAndDefinitions)
             {
+                Console.WriteLine("=============================================");
+                Console.WriteLine($"The definition of {word.Key} is {word.Value}");
             }
         }
     }

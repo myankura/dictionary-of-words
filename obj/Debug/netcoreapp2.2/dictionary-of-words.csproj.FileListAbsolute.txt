@@ -1,0 +1,11 @@
+C:\Users\Mike\backend\dictionary-of-words\bin\Debug\netcoreapp2.2\dictionary-of-words.deps.json
+C:\Users\Mike\backend\dictionary-of-words\bin\Debug\netcoreapp2.2\dictionary-of-words.runtimeconfig.json
+C:\Users\Mike\backend\dictionary-of-words\bin\Debug\netcoreapp2.2\dictionary-of-words.runtimeconfig.dev.json
+C:\Users\Mike\backend\dictionary-of-words\bin\Debug\netcoreapp2.2\dictionary-of-words.dll
+C:\Users\Mike\backend\dictionary-of-words\bin\Debug\netcoreapp2.2\dictionary-of-words.pdb
+C:\Users\Mike\backend\dictionary-of-words\obj\Debug\netcoreapp2.2\dictionary-of-words.csprojAssemblyReference.cache
+C:\Users\Mike\backend\dictionary-of-words\obj\Debug\netcoreapp2.2\dictionary-of-words.csproj.CoreCompileInputs.cache
+C:\Users\Mike\backend\dictionary-of-words\obj\Debug\netcoreapp2.2\dictionary-of-words.AssemblyInfoInputs.cache
+C:\Users\Mike\backend\dictionary-of-words\obj\Debug\netcoreapp2.2\dictionary-of-words.AssemblyInfo.cs
+C:\Users\Mike\backend\dictionary-of-words\obj\Debug\netcoreapp2.2\dictionary-of-words.dll
+C:\Users\Mike\backend\dictionary-of-words\obj\Debug\netcoreapp2.2\dictionary-of-words.pdb
